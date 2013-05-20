@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Homework5Activity!</string>
+    <string name="app_name">Homework 5</string>
+    <string name="mmddyyyy">mm/dd/yyyy</string>
+    <string name="mpaa">mpaa rating</string>
+    <string name="xhrxmin">x hr. xx min.</string>
+    <string name="audience">Audience</string>
+    <string name="critics">Critics</string>
+    <string name="back">Back</string>
+    <string name="fifpercent">15%</string>
+    <string name="stringMoviesActivity">Movies Activity</string>
+
+</resources>
